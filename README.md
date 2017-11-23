@@ -1,1 +1,1 @@
-# jay2ee
+# Spring & Hibernate
